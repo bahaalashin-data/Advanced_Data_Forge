@@ -27,7 +27,7 @@ formulas or scripting needed for common data-cleaning tasks.
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/advanced-data-forge.git
+git clone https://github.com/<bahaalashin-data>/advanced-data-forge.git
 cd advanced-data-forge
 pip install -r requirements.txt
 ```
