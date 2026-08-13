@@ -17,7 +17,7 @@ formulas or scripting needed for common data-cleaning tasks.
 
 ## Screenshot
 
-*(Add a screenshot of the app here before publishing — it makes a big difference on GitHub/LinkedIn!)*
+![Advanced Data Forge Screenshot](screenshot.png)
 
 ## Getting Started
 
