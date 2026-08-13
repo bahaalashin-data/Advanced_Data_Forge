@@ -6,14 +6,14 @@ formulas or scripting needed for common data-cleaning tasks.
 
 ## Features
 
-- 📂 **Load Data** — import CSV, TXT (tab-delimited), or Excel (`.xlsx` / `.xls`) files
-- 🧩 **Select Columns** — pick exactly which columns you want to keep
-- 🔍 **Filter Builder** — stack multiple conditions (exact match, contains, starts with, ends with) and apply them together
-- 🔄 **Pivot Tool** — reshape data by choosing index, pivot, and value columns
-- 📊 **Quick Analysis** — pick any X/Y columns and instantly plot a bar, line, or scatter chart of the current (filtered) data
-- 🧹 **Remove Duplicates** — clean up repeated rows in one click
-- ↩️ **Back / Reset** — undo the last change, or reset to the originally loaded file
-- 💾 **Export** — save the current view to a new Excel file
+- **Load Data** — import CSV, TXT (tab-delimited), or Excel (`.xlsx` / `.xls`) files
+- **Select Columns** — pick exactly which columns you want to keep
+- **Filter Builder** — stack multiple conditions (exact match, contains, starts with, ends with) and apply them together
+- **Pivot Tool** — reshape data by choosing index, pivot, and value columns
+- **Quick Analysis** — pick any X/Y columns and instantly plot a bar, line, or scatter chart of the current (filtered) data
+- **Remove Duplicates** — clean up repeated rows in one click
+- **Back / Reset** — undo the last change, or reset to the originally loaded file
+- **Export** — save the current view to a new Excel file
 
 ## Screenshot
 
